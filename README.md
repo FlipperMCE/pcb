@@ -25,7 +25,7 @@ The case files are located in the ```case``` folder. For normal use, you would p
 - FlipperMCE_Buttons_v1.stl
 - either FlipperMCE_DisplayBracket_v1.stl or FlipperMCE_DisplayBracket_alter_v1.stl
 
-Make sure to follow the assembly guide at (https://flippermce.github.io)[https://flippermce.github.io].
+Make sure to follow the assembly guide at [https://flippermce.github.io](https://flippermce.github.io) .
 
 ## Special Thanks
 
